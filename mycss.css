@@ -1,0 +1,67 @@
+
+<style>
+.active{
+  background-color:black;
+  color:white;
+}
+#production{
+  font-family: 'Dancing Script', cursive;
+  font-size: 22px;
+  font-weight: bolder;
+  text-shadow: 4px 4px 4px #aaa;
+}
+#heading{
+  color:black;
+  font-weight: bold;
+  font-size: 100%;
+}
+
+.info1{
+  background-color:#337AB7;
+  color: white;
+
+}
+.table{
+  width:50%;
+}
+.table-responsive{
+  width:100%;
+}
+#a1{
+  background-color:#FF6133;
+  color:white;
+  padding-right:70px;
+  padding-left:20px;
+
+  }
+#a1:hover{
+  background-color:#55C304;
+  color:blue;
+  }
+img{
+  width:100%;
+  height:100%;
+}
+.navbar-header{
+  font-size: 10px;
+}
+#mainimg{
+  display:inline-block;
+  height:200%;
+}
+#myNavbar{
+  background-color:#FF6133;
+  
+}
+
+
+
+h2 {
+    
+        background-color:grey;
+    color:white;
+    align-content:center;
+    font-family:Monotype Corsiva;
+  }
+      
+</style>
